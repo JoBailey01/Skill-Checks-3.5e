@@ -1,4 +1,4 @@
-# Skill-Checks-3.5e-
+# Skill-Checks-3.5e
 Makes ability checks, saving throws, and skill checks for a group of characters in D&D 3.5e. Any d20-based roll can easily be added to the system.
 
 MakeChecks.java is the front-end code for this project. By modifying its code, a DM/GM can easily add new player characters or types of checks to the programme.
